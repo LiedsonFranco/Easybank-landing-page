@@ -1,0 +1,10 @@
+body{
+    font-family: "Public Sans", sans-serif;
+}
+#hero{
+    background-image: url(../images/bg-intro-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: -20;
+    position: relative;
+}
