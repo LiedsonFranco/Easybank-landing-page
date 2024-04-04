@@ -8,3 +8,14 @@ body{
     z-index: -20;
     position: relative;
 }
+.logo{
+    fill: white;
+    background-color: white;
+    background-size: contain;
+}
+@media  (min-width: 769px) {
+    #hero{
+        background-image: url(../images/bg-intro-desktop.svg);
+        background-position: 500px -250px;
+    }
+}
